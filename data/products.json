@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "New Product",
+    "description": "This is a new product",
+    "code": "NEW123",
+    "price": 59.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electronicos",
+    "thumbnails": [
+    ]
+  },
+  {
+    "id": 3,
+    "title": "New Product",
+    "description": "This is a new product",
+    "code": "NEW123",
+    "price": 59.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electronicos",
+    "thumbnails": [
+    ]
+  },
+  {
+    "id": 2,
+    "title": "New Product",
+    "description": "This is a new product",
+    "code": "NEW123",
+    "price": 59.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electronicos",
+    "thumbnails": [
+    ]
+  }
+]

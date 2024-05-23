@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+  "title": "New Product",
+  "description": "This is a new product",
+  "code": "NEW123",
+  "price": 99.99,
+  "stock": 100,
+  "category": "Electronicos",
+}
